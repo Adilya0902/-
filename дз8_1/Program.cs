@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace StudentHomeWork
+﻿namespace _8
 {
     class BankAccount
     {
